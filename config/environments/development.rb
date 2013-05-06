@@ -1,5 +1,4 @@
 Spec::Application.configure do
-  config.middleware.use "ProcessesApp", "Load Time"
   # Settings specified here will take precedence over those in config/application.rb
 
   # In the development environment your application's code is reloaded on

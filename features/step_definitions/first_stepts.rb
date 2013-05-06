@@ -4,7 +4,6 @@ def greet
 end
 end
 
-
 Given /^a greeter$/ do
 @greeter = CucumberGreeter.new
 end
